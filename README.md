@@ -1,4 +1,7 @@
-# Amazon Sale Report Dashboard
+
+<img src=" " width="250"> 
+
+# Amazon Sale Analysis
 
 This project offers a comprehensive analysis of Amazon sales data through interactive visualizations and insightful metrics. It explores sales trends, customer behaviors, and product performance, leveraging a variety of advanced data visualization techniques.
 
