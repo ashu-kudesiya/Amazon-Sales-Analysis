@@ -1,7 +1,7 @@
 
 <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Amazon%20Sales%20Data/Amazon%20Logo.jpg" width="222">
 
-# Amazon Sale Analysis
+# Amazon Sales Analysis
 
 This project offers a comprehensive analysis of Amazon sales data through interactive visualizations and insightful metrics. It explores sales trends, customer behaviors, and product performance, leveraging a variety of advanced data visualization techniques.
 
