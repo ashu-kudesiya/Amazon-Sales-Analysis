@@ -1,4 +1,4 @@
-01234567890
+1234567890
 
 <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Amazon%20Sales%20Data/Amazon%20Logo.jpg" width="222">
 
